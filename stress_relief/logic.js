@@ -9,4 +9,3 @@ box.addEventListener("click", () => {
     increment_count()
     box.innerText = `beat me!\nyou clicked me ${count} times` ;
 })
-
